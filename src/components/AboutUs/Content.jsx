@@ -3,9 +3,9 @@ import React from 'react'
 const Content= ({subHead}) => {
   return (
     <div>
-        <div className='w-[70%] font-mono text-[15px] relative left-1/2 transform -translate-x-1/2 mb-8'>
+        <div className='w-[70%] text-[15px] relative left-1/2 transform -translate-x-1/2 mb-8'>
          <h1
-           className='font-bold text-xl font-sans mb-4'>
+           className='font-bold text-2xl headFont1 mb-4'>
              {subHead}
           </h1>
         Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic laboriosam nisi cumque velit? Perferendis dolore facere molestias repellat quibusdam praesentium assumenda sequi, laborum est odit consequatur reiciendis earum? Suscipit, reprehenderit?
