@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    scroll-behavior: smooth;
+}
+.bg{
+    background-color: #000000;
+    background-image: linear-gradient(rgba(8, 1, 20, 0.852),rgba(0, 0, 0, 0.336)) , url("../src/assets/landscape.jpg");
+    background-size: cover;
+}
+/* .bg {
+  background: linear-gradient(135deg, #06000c 40%, #10021f 100%);
+  color: white;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+} */
+ 
+
+.destName{
+  font-family: "Markazi Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.headFont{
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+.headFont1 {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.headFont2 {
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
