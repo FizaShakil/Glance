@@ -40,7 +40,7 @@ const DestPage = () => {
 
           {/* Call to Action */}
           <div className="mt-8">
-            <Link to='/booknow'>
+            <Link to={`/booknow/${dest.id}`}>
             <button className="px-6 py-3 rounded-full bg-[#240b3b] text-white font-semibold hover:bg-[#43275e] transition duration-500 shadow-lg">
               Book Now
             </button>
