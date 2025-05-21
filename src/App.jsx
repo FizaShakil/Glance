@@ -37,10 +37,7 @@ const ScrollToTop = () => {
   const { pathname } = useLocation();
 
   useEffect(() => {
-    // Scroll to top on route change
-    if (pathname.startsWith(pathname === "/" || "/destpage/" || pathname === "/aboutus" || pathname === "/destination" || pathname === "/privacypolicy" || pathname === "/booknow/" )) {
       window.scrollTo(0, 0);
-    }
   }, [pathname]);
 
   return null;
