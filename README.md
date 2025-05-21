@@ -1,7 +1,3 @@
-Here's a clean and professional `README.md` for your **Glance** tropical destination website project:
-
----
-
 # Glance
 
 **Glance** is a professionally designed tropical destination website that showcases breathtaking travel locations, allowing users to explore destinations, view detailed descriptions, and make bookings. This project focuses on providing an immersive and responsive user experience with a monochromatic purple color scheme to reflect a premium aesthetic aligned with tropical getaways.
