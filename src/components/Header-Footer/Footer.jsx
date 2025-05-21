@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div>
       <p className='w-full h-[0.5px] bg-gray-400 mt-14 mb-6'></p>
-      <div className='h-24 text-sm'>
+      <div className='h-32 mb-5 md:h-28 md:mb-1 text-sm'>
         <div className='md:flex md:flex-row'>
          <div className="text-4xl font-bold destName text-[#2d145b] ml-10">
             <Link to='/'>

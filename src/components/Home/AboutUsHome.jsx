@@ -8,7 +8,7 @@ const AboutUsHome = () => {
     <div>
       <Heading h={'About'} />
       <div className='flex flex-col md:flex-row justify-around items-center mt-7 gap-8'>
-        <div className='hover:shadow-lg hover:shadow-black hover:ease-linear duration-300 max-w-[400px]'>
+        <div className='hover:shadow-lg hover:shadow-black hover:ease-linear duration-300 w-[250px] sm:w-[300px] md:w-[350] lg:w-[400px]'>
           <img
             src={purpleHotelImage}
             alt="aboutImage"

@@ -61,7 +61,7 @@ const Header = () => {
       {/* Mobile Menu */}
       {isMenuOpen && (
         <div className="md:hidden headFont1  bg-gray-100 text-sm">
-          <NavLink to='/' className='block px-4 py-2 text-gray-800 hover:bg-gray-200'>Home</NavLink>
+          <NavLink to='/' className='block px-4 mt-3 py-2 text-gray-800 hover:bg-gray-200'>Home</NavLink>
           <NavLink to='/aboutus' className='block px-4 py-2 text-gray-800 hover:bg-gray-200'>About</NavLink>
           <NavLink to='/destination' className='block px-4 py-2 text-gray-800 hover:bg-gray-200'>Destinations</NavLink>
           <NavLink to='/privacypolicy' className='block px-4 py-2 text-gray-800 hover:bg-gray-200'>Privacy Policy</NavLink>
