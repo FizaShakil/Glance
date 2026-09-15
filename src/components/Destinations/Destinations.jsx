@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { motion, AnimatePresence } from "framer-motion";
 import { destinations } from "../../data/destinations";
 import { hotels, getHotelsByDestination } from "../../data/hotels";
-import Img from "../Reusable-components/Img";
+import Img from "../../components/Reusable-components/Img";
 
 const CONTROL_INPUT =
   "w-full rounded-sm border !border-line bg-cream px-3.5 py-2.5 text-sm text-ink placeholder:text-stone/70 transition-all duration-200 focus:border-iris focus:outline-none focus:ring-2 focus:ring-iris-soft";
