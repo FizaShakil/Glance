@@ -1,20 +1,22 @@
-import React from 'react'
-import Heading from '../Reusable-components/Heading'
-import Content from './Content'
-import Amenities from './Amenities'
+import React from "react";
+import AboutHero from "./AboutHero";
+import AboutStory from "./AboutStory";
+import AboutValues from "./AboutValues";
+import AboutHow from "./AboutHow";
+import AboutDifference from "./AboutDifference";
+import FinalCTA from "../Home/FinalCTA";
 
 const AboutUs = () => {
   return (
-    <div>
-      <Heading h={'About'}/>
-      <div className='mb-32'>
-           <Content subHead={"Our History"}/>
-           <Content subHead={"Your favorite Tropical Destinations just one click away"}/>
-           <Amenities/>
-           <Content subHead={"Our Vision"}/>
-     </div>
+    <div className="bg-cream">
+      <AboutHero />
+      <AboutStory />
+      <AboutValues />
+      <AboutHow />
+      <AboutDifference />
+      <FinalCTA />
     </div>
-  )
-}
+  );
+};
 
-export default AboutUs
+export default AboutUs;
