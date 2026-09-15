@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Heading = ({h}) => {
+const Heading = ({ h }) => {
   return (
-    <div>
-      <div className='headFont text-center font-bold text-[#2d145b] text-4xl my-11'>
+    <div className="mb-10 text-center">
+      <h2 className="font-display text-4xl font-semibold tracking-tight text-ink sm:text-5xl">
         {h}
-      </div>
+      </h2>
     </div>
   )
 }
