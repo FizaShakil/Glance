@@ -73,10 +73,10 @@ const HotelDetail = () => {
       {/* Header gallery */}
       <div className="bg-ink">
         <div className="container-page py-6 sm:py-8">
-          <div className="grid gap-3 lg:h-[540px] lg:grid-cols-[1.6fr_1fr]">
+          <div className="grid min-h-0 gap-3 lg:h-[400px] lg:grid-cols-[1.5fr_1fr] xl:h-[430px]">
             {/* Main image */}
             <div
-              className="relative overflow-hidden rounded-base"
+              className="relative min-h-0 overflow-hidden rounded-base"
               role="group"
               aria-label="Photo gallery"
               tabIndex={0}
@@ -160,8 +160,8 @@ const HotelDetail = () => {
 
             {/* Side thumbnails (desktop) */}
             {gallery.length > 1 && (
-              <div className="hidden flex-col gap-3 lg:flex">
-                {gallery.slice(1, 4).map((img, i) => (
+              <div className="hidden min-h-0 flex-col gap-3 lg:flex">
+                {gallery.slice(1, 3).map((img, i) => (
                   <button
                     key={img + i}
                     type="button"
@@ -300,7 +300,7 @@ const HotelDetail = () => {
         </div>
 
         {/* Booking panel */}
-        <aside className="lg:sticky lg:top-24 lg:self-start">
+        <aside className="relative z-20 lg:sticky lg:top-24 lg:-mt-44 lg:self-start">
           <div className="rounded-base border border-line bg-cream p-6 shadow-card">
             <div className="flex items-center justify-between">
               <div>
