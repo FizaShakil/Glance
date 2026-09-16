@@ -14,7 +14,7 @@ const steps = [
   {
     icon: "fa-solid fa-building",
     title: "Understand the stay",
-    text: "Hotel cards compare rooms, ratings, and what you actually get — one consistent layout everywhere.",
+    text: "Hotel cards compare rooms, ratings, and what you actually get  one consistent layout everywhere.",
     to: "/stays",
     label: "Browse stays",
   },

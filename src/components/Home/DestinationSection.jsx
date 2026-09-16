@@ -20,7 +20,7 @@ const DestinationSection = () => {
         <SectionHeading
           eyebrow="Where to next"
           title="Destinations waiting for you"
-          subtitle="From coastlines to cloud forests, each place is chosen by hand. Start with one that moves you — we'll find the stay."
+          subtitle="From coastlines to cloud forests, each place is chosen by hand. Start with one that moves you  we'll find the stay."
           action={{ to: "/destination", label: "Explore all destinations" }}
         />
 

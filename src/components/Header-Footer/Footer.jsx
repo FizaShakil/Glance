@@ -22,7 +22,7 @@ const Footer = () => {
             Glance
           </Link>
           <p className="mt-3 max-w-[240px] text-sm leading-relaxed text-stone">
-            Find a stay worth travelling for — discover destinations, compare hotels, and book with confidence.
+            Find a stay worth travelling for  discover destinations, compare hotels, and book with confidence.
           </p>
           <div className="mt-6 flex items-center gap-3">
             {socials.map((s) => (
@@ -78,8 +78,8 @@ const Footer = () => {
 
       <div className="border-t border-line">
         <div className="container-page flex flex-col items-center justify-between gap-2 py-5 text-xs text-taupe sm:flex-row">
-          <p>Made by Fiza Shakil — All Rights Reserved</p>
-          <p>Demo product — hotel data is illustrative.</p>
+          <p>Made by Fiza Shakil  All Rights Reserved</p>
+          <p>Demo product  hotel data is illustrative.</p>
         </div>
       </div>
     </footer>

@@ -4,15 +4,15 @@ import { motion, AnimatePresence } from "framer-motion";
 const faqs = [
   {
     q: "Is this a real booking service?",
-    a: "No — Glance is a design demo. Prices, ratings, and the booking flow are illustrative, and no payments are processed or charged.",
+    a: "No  Glance is a design demo. Prices, ratings, and the booking flow are illustrative, and no payments are processed or charged.",
   },
   {
     q: "How are stays chosen for the catalogue?",
-    a: "Each stay is hand-picked for a destination and presented with the same consistent layout — location, rating, what makes it special, and a clear price breakdown.",
+    a: "Each stay is hand-picked for a destination and presented with the same consistent layout  location, rating, what makes it special, and a clear price breakdown.",
   },
   {
     q: "Can I actually reserve a room through the site?",
-    a: "You can walk the entire experience — search, checkout, and confirmation — but it's a simulated booking stored only in your browser. Nothing is sent anywhere.",
+    a: "You can walk the entire experience  search, checkout, and confirmation  but it's a simulated booking stored only in your browser. Nothing is sent anywhere.",
   },
   {
     q: "What makes Glance different from the big booking sites?",

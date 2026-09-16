@@ -109,7 +109,7 @@ const BookingCheckout = () => {
     const e = {};
     if (!fullName.trim() || fullName.trim().length < 2) e.fullName = "Please enter the lead guest's full name.";
     if (!email.trim()) e.email = "We need an email to send your confirmation.";
-    else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) e.email = "That email doesn't look right — please check it.";
+    else if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email.trim())) e.email = "That email doesn't look right  please check it.";
     if (!phone.trim()) e.phone = "A contact number helps us reach you about your stay.";
     else if (!/^[+\d][\d\s().-]{6,}$/.test(phone.trim())) e.phone = "Enter a valid phone number, e.g. +1 555 000 1234.";
     if (!checkIn) e.checkIn = "Choose a check-in date.";
@@ -196,7 +196,7 @@ const BookingCheckout = () => {
               Confirm your stay
             </h1>
             <p className="mt-3 max-w-xl text-sm text-cream/75 sm:text-base">
-              Review your details, then confirm. No hidden charges — the total below is what you&apos;ll pay.
+              Review your details, then confirm. No hidden charges  the total below is what you&apos;ll pay.
             </p>
           </div>
         </div>
@@ -345,7 +345,7 @@ const BookingCheckout = () => {
                   />
                 </Field>
 
-                <Field id="notes" label="Special requests" optional error={submitAttempted ? errors.notes : null} hint="Allergies, late arrival, ground floor — nice-to-have, not required.">
+                <Field id="notes" label="Special requests" optional error={submitAttempted ? errors.notes : null} hint="Allergies, late arrival, ground floor  nice-to-have, not required.">
                   <textarea
                     id="notes"
                     name="notes"
@@ -364,7 +364,7 @@ const BookingCheckout = () => {
               <div className="rounded-base border border-red-200 bg-red-50 p-4 text-sm text-red-800" role="alert">
                 <p className="flex items-center gap-2 font-semibold">
                   <i className="fas fa-triangle-exclamation" aria-hidden="true"></i>
-                  Almost there — a few details need attention.
+                  Almost there  a few details need attention.
                 </p>
                 <p className="mt-1 text-red-700">
                   {Object.keys(errors).length > 0
@@ -458,7 +458,7 @@ const BookingCheckout = () => {
 
                 <p className="mt-3 flex items-center gap-1.5 text-xs text-taupe">
                   <i className="fas fa-circle-info" aria-hidden="true"></i>
-                  Demo rates — no payment is processed.
+                  Demo rates  no payment is processed.
                 </p>
               </div>
 

@@ -86,7 +86,7 @@ const AboutHero = () => {
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/80 sm:text-lg">
             Glance is a demo of a simpler way to pick a trip: watch a place,
-            understand a stay, and see the honest total before you book — no
+            understand a stay, and see the honest total before you book  no
             spreadsheet required.
           </p>
           <div className="mt-9 flex flex-wrap items-center justify-center gap-4">

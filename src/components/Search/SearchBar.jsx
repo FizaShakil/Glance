@@ -169,12 +169,12 @@ const SearchBar = ({ onSearchStart, compact = false }) => {
             }`}
             aria-expanded={openPanel === "dates"}
           >
-            <FieldLabel>Check-in — Check-out</FieldLabel>
+            <FieldLabel>Check-in  Check-out</FieldLabel>
             <span className={`text-sm ${checkIn ? "font-semibold text-ink" : "text-stone"}`}>
               {checkIn && checkOut
-                ? `${formatLong(checkIn)} — ${formatLong(checkOut)}`
+                ? `${formatLong(checkIn)}  ${formatLong(checkOut)}`
                 : checkIn
-                ? `${formatLong(checkIn)} — + nights`
+                ? `${formatLong(checkIn)}  + nights`
                 : "Add dates"}
             </span>
           </button>

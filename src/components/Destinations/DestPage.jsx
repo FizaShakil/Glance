@@ -106,7 +106,7 @@ const DestPage = () => {
               {[
                 { label: "Region", value: dest.region },
                 { label: "Curated stays", value: `${stays.length}` },
-                { label: "Avg. guest rating", value: avgRating ?? "—" },
+                { label: "Avg. guest rating", value: avgRating ?? "" },
               ].map((s) => (
                 <div key={s.label}>
                   <dt className="text-xs font-semibold uppercase tracking-[0.16em] text-cream/60">{s.label}</dt>
@@ -165,7 +165,7 @@ const DestPage = () => {
                 <div key={img + i} className={`group relative overflow-hidden rounded-base shadow-soft ${i === 0 ? "sm:col-span-2 lg:col-span-2" : ""} ${i === 0 ? "aspect-[16/10]" : "aspect-square"}`}>
                   <Img
                     src={img}
-                    alt={`${dest.destName} — view ${i + 1}`}
+                    alt={`${dest.destName}  view ${i + 1}`}
                     fallbacks={Array.from({ length: 4 }, (_, j) => dest.gallery[j === i ? 0 : j])}
                     wrapperClassName="block h-full w-full"
                     imgClassName="block h-full w-full object-cover transition-transform duration-[1300ms] ease-out-quart group-hover:scale-110"
@@ -181,7 +181,7 @@ const DestPage = () => {
           <SectionHeading
             eyebrow="Why visit"
             title={`Reasons to choose ${dest.destName}`}
-            subtitle="Not a list of features — a sense of what makes this place stick with you."
+            subtitle="Not a list of features  a sense of what makes this place stick with you."
           />
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {dest.whyChoose.map((reason, i) => (
@@ -229,7 +229,7 @@ const DestPage = () => {
                 Good to know
               </h2>
               <p className="mt-4 text-base leading-relaxed text-stone">
-                Small, practical things that make the first visit smoother — the kind of notes we wish every listing came with.
+                Small, practical things that make the first visit smoother  the kind of notes we wish every listing came with.
               </p>
             </div>
             <ul className="space-y-3">

@@ -25,7 +25,7 @@ const Contact = () => {
             </h2>
             <p className="mt-4 max-w-md text-base leading-relaxed text-stone">
               We reply fastest by email, and we read everything. If it&apos;s a bug
-              or a design gripe, even better — that&apos;s how demos improve.
+              or a design gripe, even better  that&apos;s how demos improve.
             </p>
             <div className="mt-8">
               <ContactCards />

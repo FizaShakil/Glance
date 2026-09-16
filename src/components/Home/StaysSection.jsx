@@ -13,7 +13,7 @@ const StaysSection = () => {
         <SectionHeading
           eyebrow="Hand-picked stays"
           title="Stays people keep coming back to"
-          subtitle="A shortlist of favourites across our catalogue — every one picked for place, calm, and a little bit of magic."
+          subtitle="A shortlist of favourites across our catalogue  every one picked for place, calm, and a little bit of magic."
           action={{ to: "/stays", label: "Browse all stays" }}
         />
 

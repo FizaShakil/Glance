@@ -120,7 +120,7 @@ const Destinations = () => {
               {destinations.length} destinations worth a slow look
             </h1>
             <p className="mx-auto mt-5 max-w-xl text-base leading-relaxed text-cream/80 sm:text-lg">
-              Each one hand-written and honestly presented — pick a mood, a region,
+              Each one hand-written and honestly presented  pick a mood, a region,
               or follow your curiosity.
             </p>
 
@@ -257,7 +257,7 @@ const Destinations = () => {
             Can&apos;t pick? Start with the stays.
           </h2>
           <p className="mx-auto mt-3 max-w-md text-sm leading-relaxed text-cream/75">
-            Every card below is already searchable — filter by mood, dates, and
+            Every card below is already searchable  filter by mood, dates, and
             guests from the stays page.
           </p>
           <Link to="/stays" className="btn-light mt-7 !px-7 !py-3.5">

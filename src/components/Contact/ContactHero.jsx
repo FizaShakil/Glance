@@ -29,7 +29,7 @@ const ContactHero = () => {
             Contact us
           </p>
           <h1 className="mx-auto mt-4 max-w-2xl font-display text-4xl font-semibold leading-[1.05] tracking-tight text-white sm:text-6xl">
-            Say hello — we answer.
+            Say hello  we answer.
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/80 sm:text-lg">
             A question about a stay, the demo, or where it&apos;s all headed?

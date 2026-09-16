@@ -61,7 +61,7 @@ const ContactForm = ({ compact = false }) => {
           Message delivered
         </h3>
         <p className="mt-2 max-w-sm text-sm leading-relaxed text-stone">
-          Thanks {values.name.trim().split(" ")[0] || "for writing in"} — we&apos;ll
+          Thanks {values.name.trim().split(" ")[0] || "for writing in"}  we&apos;ll
           reply to {values.email.trim()} within one working day.
         </p>
         <button
@@ -195,7 +195,7 @@ const ContactForm = ({ compact = false }) => {
         </button>
 
         <p className="text-center text-xs text-taupe">
-          Demo form — nothing is actually emailed to anyone.
+          Demo form  nothing is actually emailed to anyone.
         </p>
       </div>
     </form>

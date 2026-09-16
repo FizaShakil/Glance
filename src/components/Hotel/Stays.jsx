@@ -88,7 +88,7 @@ const Stays = () => {
           <p className="mt-3 max-w-xl text-sm leading-relaxed text-cream/75 sm:text-base">
             {destination
               ? `${destination.description.split(".")[0]}.`
-              : "Hand-picked hotels across eight destinations — filter by mood, rating, and price."}
+              : "Hand-picked hotels across eight destinations  filter by mood, rating, and price."}
           </p>
         </div>
       </div>

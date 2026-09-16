@@ -97,7 +97,7 @@ const Calendar = ({ checkIn, checkOut, onSelect, double = false }) => {
         <div className="text-xs font-medium text-stone">
           {checkIn
             ? checkOut
-              ? "Select dates — done when ready"
+              ? "Select dates  done when ready"
               : "Select a check-out date"
             : "Select your check-in date"}
         </div>
@@ -120,7 +120,7 @@ const Calendar = ({ checkIn, checkOut, onSelect, double = false }) => {
         <div className="mt-4 flex items-center justify-between border-t border-line pt-4">
           <p className="text-sm text-stone">
             {new Date(checkIn).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
-            {" — "}
+            {"  "}
             {new Date(checkOut).toLocaleDateString("en-US", { month: "short", day: "numeric" })}
           </p>
           <button

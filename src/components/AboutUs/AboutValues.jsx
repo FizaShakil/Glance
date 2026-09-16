@@ -6,7 +6,7 @@ const values = [
   {
     icon: "fa-solid fa-eye",
     title: "Clarity",
-    text: "Every stay is presented the same way — location, rating, what makes it special, and the total before you click anything.",
+    text: "Every stay is presented the same way  location, rating, what makes it special, and the total before you click anything.",
   },
   {
     icon: "fa-solid fa-hand-holding-heart",
@@ -21,7 +21,7 @@ const values = [
   {
     icon: "fa-solid fa-screwdriver-wrench",
     title: "Craft",
-    text: "A living demo that keeps getting better — every stay we add sharpens how the product works.",
+    text: "A living demo that keeps getting better  every stay we add sharpens how the product works.",
   },
 ];
 

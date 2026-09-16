@@ -12,5 +12,5 @@ export const hotelStats = {
   destinationsCount: 8,
   hotelsCount: hotels.length,
   hotelCountLabel: `${hotels.length} stays`,
-  demoNote: "Demo catalogue — prices and ratings are illustrative.",
+  demoNote: "Demo catalogue  prices and ratings are illustrative.",
 };

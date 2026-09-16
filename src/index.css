@@ -35,7 +35,7 @@
     background-position: center;
   }
 
-  /* Legacy typography helpers — remapped onto the editorial system */
+  /* Legacy typography helpers  remapped onto the editorial system */
   .destName {
     @apply font-display font-semibold tracking-tight;
   }

@@ -13,7 +13,7 @@ const MoodSection = () => {
         <SectionHeading
           eyebrow="Travel by mood"
           title="What kind of trip feels right?"
-          subtitle="Beach days, big cities, slow mornings in the mountains — pick a mood and we'll show you stays that fit it."
+          subtitle="Beach days, big cities, slow mornings in the mountains  pick a mood and we'll show you stays that fit it."
         />
 
         <div className="grid grid-cols-2 gap-4 sm:gap-5 lg:grid-cols-6">

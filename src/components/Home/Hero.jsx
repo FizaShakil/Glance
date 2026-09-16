@@ -70,7 +70,7 @@ const Hero = () => {
             animate="visible"
             className="mx-auto mt-6 max-w-xl text-base leading-relaxed text-cream/80 sm:text-lg"
           >
-            Glance pairs beautiful destinations with hand-picked hotels — so
+            Glance pairs beautiful destinations with hand-picked hotels  so
             you can compare with clarity and book with confidence.
           </motion.p>
         </div>

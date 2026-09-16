@@ -102,7 +102,7 @@ export const hotels = [
     reviewCount: 963,
     tagline: "Treetop suites above the Campuhan valley",
     description:
-      "Suspended among jungle canopy, this retreat blends open-air architecture with infinity edges over the Campuhan river — a five-minute stroll from Ubud's art market and temples.",
+      "Suspended among jungle canopy, this retreat blends open-air architecture with infinity edges over the Campuhan river  a five-minute stroll from Ubud's art market and temples.",
     image: img("1441974231531-c6227db76b6e"),
     gallery: [img("1441974231531-c6227db76b6e"), img("1469474968028-56623f02e42e"), img("1500530855697-b586d89ba3ee")],
     amenities: ["Free Wi-Fi", "Infinity Pool", "Spa & Wellness", "Yoga Classes", "Breakfast Included", "Airport Transfer"],
@@ -200,7 +200,7 @@ export const hotels = [
     reviewCount: 348,
     tagline: "Sun-faded surf town energy",
     description:
-      "A laid-back beach lodge in the heart of Tamarindo's surf scene — board racks by the door, barefoot dinners at sunset, and consistent waves a step from your hammock.",
+      "A laid-back beach lodge in the heart of Tamarindo's surf scene  board racks by the door, barefoot dinners at sunset, and consistent waves a step from your hammock.",
     image: img("1505118380757-91f5f5632de0"),
     gallery: [img("1505118380757-91f5f5632de0"), img("1506929562872-bb421503ef21"), img("1519046904884-53103b34b206")],
     amenities: ["Free Wi-Fi", "Outdoor Pool", "Surf School", "Bike Hire", "Beachfront"],
@@ -224,7 +224,7 @@ export const hotels = [
     reviewCount: 892,
     tagline: "Volcano-view suites with thermal pools",
     description:
-      "Under the shadow of Volcán Arenal, this full-service sanctuary runs thermal hot springs from the volcano's natural heat and pairs them with adventure — hanging bridges, waterfalls, and rainforest treks.",
+      "Under the shadow of Volcán Arenal, this full-service sanctuary runs thermal hot springs from the volcano's natural heat and pairs them with adventure  hanging bridges, waterfalls, and rainforest treks.",
     image: img("1506744038136-46273834b3fb"),
     gallery: [img("1506744038136-46273834b3fb"), img("1469474968028-56623f02e42e"), img("1493246507139-91e8fad9978e")],
     amenities: ["Free Wi-Fi", "Thermal Pools", "Spa & Wellness", "Restaurant & Bar", "Airport Transfer", "Adventure Concierge"],
@@ -250,7 +250,7 @@ export const hotels = [
     reviewCount: 421,
     tagline: "Glass-floor villas in the bluest lagoon",
     description:
-      "On a private motu just off Matira Point, these overwater villas place beds directly above the lagoon — glass floors, ladder-to-water access, and view lines to Mount Otemanu.",
+      "On a private motu just off Matira Point, these overwater villas place beds directly above the lagoon  glass floors, ladder-to-water access, and view lines to Mount Otemanu.",
     image: img("1512918728675-ed5a9ecdebfd"),
     gallery: [img("1512918728675-ed5a9ecdebfd"), img("1537956965359-7573183d1f57"), img("1540541338287-41700207dee6")],
     amenities: ["Free Wi-Fi", "Overwater Villas", "Private Beach", "Spa & Wellness", "Snorkelling Gear", "Breakfast Included"],
@@ -274,7 +274,7 @@ export const hotels = [
     reviewCount: 315,
     tagline: "Sunsets at the island's famous beach",
     description:
-      "Simple, soulful beach bungalows on Matira's white sand — the place to unplug with kayaks at the door, fresh coconut stalls up the lane, and some of Bora Bora's best sunsets.",
+      "Simple, soulful beach bungalows on Matira's white sand  the place to unplug with kayaks at the door, fresh coconut stalls up the lane, and some of Bora Bora's best sunsets.",
     image: img("1540541338287-41700207dee6"),
     gallery: [img("1540541338287-41700207dee6"), img("1519046904884-53103b34b206"), img("1506929562872-bb421503ef21")],
     amenities: ["Free Wi-Fi", "Beachfront", "Kayak Hire", "Snorkelling Gear", "Restaurant"],
@@ -324,7 +324,7 @@ export const hotels = [
     reviewCount: 674,
     tagline: "Turquoise lagoon beneath a sacred mountain",
     description:
-      "At the foot of Le Morne mountain, this resort fronts one of Mauritius's finest lagoons — kite-surfing offshore, a house reef for snorkelling, and colonial-meets-modern design throughout.",
+      "At the foot of Le Morne mountain, this resort fronts one of Mauritius's finest lagoons  kite-surfing offshore, a house reef for snorkelling, and colonial-meets-modern design throughout.",
     image: img("1507525428034-b723cf961d3e"),
     gallery: [img("1507525428034-b723cf961d3e"), img("1519046904884-53103b34b206"), img("1506929562872-bb421503ef21")],
     amenities: ["Free Wi-Fi", "Infinity Pool", "Private Beach", "Spa & Wellness", "Kite & Surf School", "Breakfast Included"],
@@ -372,7 +372,7 @@ export const hotels = [
     reviewCount: 289,
     tagline: "Highlands quiet above the seven-coloured earth",
     description:
-      "Hidden up in the Chamarel highlands, this lodge trades coast for rainforest — guided waterfall walks, the island's famous coloured dunes, and starlit nights far from the crowds.",
+      "Hidden up in the Chamarel highlands, this lodge trades coast for rainforest  guided waterfall walks, the island's famous coloured dunes, and starlit nights far from the crowds.",
     image: img("1469474968028-56623f02e42e"),
     gallery: [img("1469474968028-56623f02e42e"), img("1441974231531-c6227db76b6e"), img("1500530855697-b586d89ba3ee")],
     amenities: ["Free Wi-Fi", "Guided Eco Tours", "Hiking Trails", "Restaurant", "Rum Tasting"],
@@ -446,7 +446,7 @@ export const hotels = [
     reviewCount: 731,
     tagline: "City-meets-surf steps off Kalākaua",
     description:
-      "Tucked a block from Waikiki Beach, this boutique hotel gives first-timers the classic experience — Diamond Head views, mellow surf culture, and Honolulu's energy on the doorstep.",
+      "Tucked a block from Waikiki Beach, this boutique hotel gives first-timers the classic experience  Diamond Head views, mellow surf culture, and Honolulu's energy on the doorstep.",
     image: img("1506929562872-bb421503ef21"),
     gallery: [img("1506929562872-bb421503ef21"), img("1519046904884-53103b34b206"), img("1507525428034-b723cf961d3e")],
     amenities: ["Free Wi-Fi", "Roof Deck", "Beach Access", "Rental Equipment", "Restaurant"],
@@ -520,7 +520,7 @@ export const hotels = [
     reviewCount: 195,
     tagline: "A quieter, sun-drenched slice of the Amalfi",
     description:
-      "Ten minutes from the crowds, this family-run pensione sits on Minori's pebbled beach — ravioli Mondays, bay swimming at dawn, and the Amalfi drive a slower, sweeter ferry ride away.",
+      "Ten minutes from the crowds, this family-run pensione sits on Minori's pebbled beach  ravioli Mondays, bay swimming at dawn, and the Amalfi drive a slower, sweeter ferry ride away.",
     image: img("1502602898657-3e91760cbb34"),
     gallery: [img("1502602898657-3e91760cbb34"), img("1523906834658-6e24ef2386f9"), img("1533105079780-92b9be482077")],
     amenities: ["Free Wi-Fi", "Beachfront", "Family Rooms", "Breakfast Included", "Ferry Booking Desk"],
@@ -546,7 +546,7 @@ export const hotels = [
     reviewCount: 604,
     tagline: "Caldera-edge suites with plunge pools",
     description:
-      "Burrowed into Oia's clifftop, White & Blue Suites frame the caldera from private plunge pools and dark-noir interiors — sunset from your own terrace, cave-suite calm by night.",
+      "Burrowed into Oia's clifftop, White & Blue Suites frame the caldera from private plunge pools and dark-noir interiors  sunset from your own terrace, cave-suite calm by night.",
     image: img("1533105079780-92b9be482077"),
     gallery: [img("1533105079780-92b9be482077"), img("1613395877344-13d4a8e0d49e"), img("1610978883743-1b28f2b2d9f5")],
     amenities: ["Free Wi-Fi", "Private Plunge Pools", "Caldera View", "Breakfast Included", "Concierge"],
@@ -570,7 +570,7 @@ export const hotels = [
     reviewCount: 512,
     tagline: "Cliff apartment views over the caldera",
     description:
-      "In the heart of Thira's cliffside quarter, Blue Dome Boutique blends cave-apartment character with island ease — caldera views, walkable dining, and easy access to beaches.",
+      "In the heart of Thira's cliffside quarter, Blue Dome Boutique blends cave-apartment character with island ease  caldera views, walkable dining, and easy access to beaches.",
     image: img("1613395877344-13d4a8e0d49e"),
     gallery: [img("1613395877344-13d4a8e0d49e"), img("1533105079780-92b9be482077"), img("1610978883743-1b28f2b2d9f5")],
     amenities: ["Free Wi-Fi", "Caldera View", "Airport Transfer", "Breakfast Included", "Air Conditioning"],
@@ -594,7 +594,7 @@ export const hotels = [
     reviewCount: 356,
     tagline: "Virgin-sunset balconies without the Oia prices",
     description:
-      "Half the distance to Oia's headline view but all of the sunset — Fira Sunset House pairs honest prices with caldera-facing balconies and a rooftop that quietly steals the show.",
+      "Half the distance to Oia's headline view but all of the sunset  Fira Sunset House pairs honest prices with caldera-facing balconies and a rooftop that quietly steals the show.",
     image: img("1610978883743-1b28f2b2d9f5"),
     gallery: [img("1610978883743-1b28f2b2d9f5"), img("1533105079780-92b9be482077"), img("1523906834658-6e24ef2386f9")],
     amenities: ["Free Wi-Fi", "Caldera View", "Roof Terrace", "Breakfast Included", "Bike Hire"],

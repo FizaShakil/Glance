@@ -19,7 +19,7 @@ const Favorites = () => {
           </h1>
           <p className="mt-3 max-w-xl text-sm leading-relaxed text-cream/75 sm:text-base">
             {saved.length
-              ? `${saved.length} ${saved.length === 1 ? "stay" : "stays"} saved for later — ready when you are.`
+              ? `${saved.length} ${saved.length === 1 ? "stay" : "stays"} saved for later  ready when you are.`
               : "Stays you save will show up here, waiting on every device."}
           </p>
         </div>
@@ -36,7 +36,7 @@ const Favorites = () => {
             <i className="fa-regular fa-heart mb-4 text-4xl text-taupe" aria-hidden="true"></i>
             <h2 className="font-display text-2xl font-semibold text-ink">Nothing saved yet</h2>
             <p className="mx-auto mt-2 max-w-md text-sm text-stone">
-              Tap the heart on any stay to keep it here — your shortlist syncs to this browser.
+              Tap the heart on any stay to keep it here  your shortlist syncs to this browser.
             </p>
             <Link to="/stays" className="btn-primary mt-6 !px-6 !py-3 text-sm">
               Browse stays

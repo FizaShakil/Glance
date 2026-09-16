@@ -5,7 +5,7 @@ const features = [
   {
     icon: "fa-solid fa-shield-halved",
     title: "Transparent pricing",
-    text: "Taxes and totals are shown up front — in the card, the panel, and the receipt.",
+    text: "Taxes and totals are shown up front  in the card, the panel, and the receipt.",
   },
   {
     icon: "fa-solid fa-table-list",
@@ -20,7 +20,7 @@ const features = [
   {
     icon: "fa-solid fa-pen-ruler",
     title: "A focused catalogue",
-    text: "A small, hand-picked set of stays — not an endless, exhausting list of options.",
+    text: "A small, hand-picked set of stays  not an endless, exhausting list of options.",
   },
 ];
 
@@ -61,7 +61,7 @@ const AboutDifference = () => {
         </div>
 
         <p className="mt-10 text-center text-xs text-taupe">
-          Glance is a design demo — catalogue, prices, and ratings are illustrative
+          Glance is a design demo  catalogue, prices, and ratings are illustrative
           and no payments are processed.
         </p>
       </div>

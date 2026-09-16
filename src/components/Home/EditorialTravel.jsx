@@ -34,7 +34,7 @@ const EditorialTravel = () => {
             >
               <p className="font-display text-3xl font-semibold text-plum">24</p>
               <p className="mt-1 text-xs leading-relaxed text-stone">
-                stays, each one chosen by hand and written about like a place — not a product ID.
+                stays, each one chosen by hand and written about like a place  not a product ID.
               </p>
             </motion.div>
           </motion.div>
@@ -53,7 +53,7 @@ const EditorialTravel = () => {
             <p className="mt-5 max-w-lg text-base leading-relaxed text-stone sm:text-lg">
               We think a booking page can feel like a travel magazine. Glance pairs
               rich destination notes with hand-picked stays, so you arrive knowing
-              the story of the place — not just the price of the night.
+              the story of the place  not just the price of the night.
             </p>
             <p className="mt-4 max-w-lg text-base leading-relaxed text-stone">
               Browse by mood, open a destination, and fall into its rooms. When a

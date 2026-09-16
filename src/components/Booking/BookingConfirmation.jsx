@@ -174,7 +174,7 @@ const BookingConfirmation = () => {
               <span className="text-sm font-semibold text-ink">Total paid</span>
               <span className="font-display text-3xl font-semibold tracking-tight text-ink">${booking.total}</span>
             </div>
-            <p className="mt-2 text-right text-xs text-taupe">Demo booking — no payment was processed.</p>
+            <p className="mt-2 text-right text-xs text-taupe">Demo booking  no payment was processed.</p>
           </div>
         </motion.div>
 
@@ -198,7 +198,7 @@ const BookingConfirmation = () => {
               </li>
               <li className="flex items-start gap-3">
                 <i className="fas fa-shield-halved mt-0.5 text-plum" aria-hidden="true"></i>
-                Free cancellation on select stays — check before the date.
+                Free cancellation on select stays  check before the date.
               </li>
             </ul>
           </div>

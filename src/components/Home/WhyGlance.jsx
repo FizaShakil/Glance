@@ -6,7 +6,7 @@ const features = [
   {
     icon: "fa-solid fa-hand-holding-heart",
     title: "Curated, not crowded",
-    text: "Every destination and stay is chosen by a person — not an algorithm. You'll never wade through a thousand lookalike listings.",
+    text: "Every destination and stay is chosen by a person  not an algorithm. You'll never wade through a thousand lookalike listings.",
   },
   {
     icon: "fa-solid fa-compass",
@@ -16,7 +16,7 @@ const features = [
   {
     icon: "fa-solid fa-leaf",
     title: "Calm by design",
-    text: "An editorial, low-noise layout with honest demo data — so you can judge a stay on its merits.",
+    text: "An editorial, low-noise layout with honest demo data  so you can judge a stay on its merits.",
   },
   {
     icon: "fa-solid fa-lock",

@@ -17,7 +17,7 @@ const blocks = [
     title: "The Glance take",
     paragraphs: [
       "Glance collapses that research marathon into a calm, focused sequence: discover a destination, scan genuinely useful hotel cards, understand the real cost, and book without surprises.",
-      "It is a working demo of that idea — a small catalogue, presented the way a careful traveller would want it.",
+      "It is a working demo of that idea  a small catalogue, presented the way a careful traveller would want it.",
     ],
   },
 ];
